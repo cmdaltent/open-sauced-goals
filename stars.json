@@ -1,20 +1,20 @@
 [
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 24888,
+    "stargazers_count": 24941,
     "open_issues_count": 354,
-    "forks_count": 2178
+    "forks_count": 2179
   },
   {
     "full_name": "spf13/viper",
-    "stargazers_count": 18010,
-    "open_issues_count": 412,
+    "stargazers_count": 18056,
+    "open_issues_count": 411,
     "forks_count": 1567
   },
   {
     "full_name": "gin-gonic/gin",
-    "stargazers_count": 54936,
-    "open_issues_count": 477,
-    "forks_count": 6241
+    "stargazers_count": 55037,
+    "open_issues_count": 478,
+    "forks_count": 6246
   }
 ]
